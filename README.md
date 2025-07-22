@@ -5,8 +5,8 @@ A chatbot application that allows users to interact with and query the contents 
 These screenshots showcase the complete interface of the Document Chatbot project.
 
 ### Home page 
-<div align="center">
-  <img src="top.jpg" alt="Amazon Clone Top Section" width="800"/>
+<div>
+  <img src="Home page.jpg" alt="Document Chatbot Interface" width="800"/>
   <p><em>The landing page welcomes users and provides an overview of the Document Chatbot. Users can see options to upload documents or start chatting.</em></p>
 </div>
 
